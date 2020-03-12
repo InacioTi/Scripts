@@ -1,0 +1,1686 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md0.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md0 : active (auto-read-only) raid1 sdb[1]
+      8380416 blocks super 1.2 [2/1] [_U]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[1]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kkaliii
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
+
+
+This is an automatically generated mail message from mdadm
+running on kali
+
+A DegradedArray event had been detected on md device /dev/md124.
+
+Faithfully yours, etc.
+
+P.S. The /proc/mdstat file currently contains the following:
+
+Personalities : [raid1] 
+md124 : active (auto-read-only) raid1 md0[1]
+      8376320 blocks super 1.2 [2/1] [_U]
+      
+md0 : active (auto-read-only) raid1 sdc[2] sdb[3]
+      8380416 blocks super 1.2 [2/2] [UU]
+      
+unused devices: <none>
