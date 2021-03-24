@@ -1,0 +1,28 @@
+
+
+
+	sshpass -p "L4t4m4dm1n" parallel-ssh -h TMS.txt -l root  > loga-como-root
+	
+[273] 11:12:53 [FAILURE] 10.224.26.8 Timed out, Killed by signal 9
+[274] 11:12:54 [FAILURE] 10.224.66.8 Timed out, Killed by signal 9
+[275] 11:12:54 [FAILURE] 10.224.82.8 Timed out, Killed by signal 9
+[276] 11:12:55 [FAILURE] 10.225.16.8 Timed out, Killed by signal 9
+[277] 11:12:57 [FAILURE] 10.227.160.8 Timed out, Killed by signal 9
+[278] 11:12:58 [FAILURE] 10.227.162.8 Timed out, Killed by signal 9
+[279] 11:12:58 [FAILURE] 10.228.64.8 Timed out, Killed by signal 9
+[280] 11:12:58 [FAILURE] 10.228.122.8 Timed out, Killed by signal 9
+[281] 11:12:59 [FAILURE] 10.229.180.8 Timed out, Killed by signal 9
+[282] 11:13:00 [FAILURE] 10.229.242.8 Timed out, Killed by signal 9
+[283] 11:13:00 [FAILURE] 10.230.16.8 Timed out, Killed by signal 9
+[284] 11:13:00 [FAILURE] 10.230.20.8 Timed out, Killed by signal 9
+[285] 11:13:01 [FAILURE] 10.230.184.8 Timed out, Killed by signal 9
+[286] 11:13:01 [FAILURE] 10.230.200.8 Timed out, Killed by signal 9
+[287] 11:13:02 [FAILURE] 10.231.80.8 Timed out, Killed by signal 9
+[288] 11:13:02 [FAILURE] 10.231.120.8 Timed out, Killed by signal 9
+[289] 11:13:03 [FAILURE] 10.231.178.8 Timed out, Killed by signal 9
+[290] 11:13:03 [FAILURE] 10.231.194.8 Timed out, Killed by signal 9
+
+
+
+
+sshpass -p "L4t4m4dm1n" parallel-ssh -h ips-loga-administrador -l administrator -P  -A sudo sed -i 's/#PermitRootLogin yes/PermitRootLogin yes/g' /etc/ssh/sshd_config > loga-como-administrator

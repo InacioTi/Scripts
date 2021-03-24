@@ -1,0 +1,55 @@
+
+#!/bin/bash
+
+echo "Qual Comando deseja executar em todos os LMS ?"
+read comando
+
+for host in $(cat /lista-ip- | grep "\.8$"); do
+
+
+        if [ -n $comando ]
+            then
+           echo $comando
+
+
+
+                ping -c 1 $host >/dev/null
+
+         if [ $? -eq 0 ]
+                then
+
+                 echo "$host TMS gerenciamento OK"
+
+                        echo $host > /lista8
+                        echo "------------------------------------"
+                        echo "Servidor: $host"
+                        echo "Código de retorno: $?"
+
+           else
+
+               echo "$host inacessivel"
+
+            fi
+
+
+         parallel-ssh -h /lista8 -l root -A -i $comando
+
+         else
+           echo "Digite um comando"
+
+         fi
+
+
+
+
+
+
+done
+
+
+
+
+
+
+
+

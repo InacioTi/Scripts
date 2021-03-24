@@ -1,0 +1,29 @@
+#!/bin/bash
+
+
+for host in $(cat /lista-ip- | grep "\.8$"); do
+
+
+ 
+ ping -c 1 $host >/dev/null 
+ 
+    if [ $? -eq 0 ]
+	
+	 then
+        
+	 echo "$host TMS gerenciamento OK"
+	 echo $host > /lista8
+         echo "------------------------------------"
+         echo "Servidor: $host"
+sshpass -p "L4t4m4dm1n" parallel-ssh -h /lista8 -l root -o /root@10.240.255.56:21 -A -i "cat /aam-lms/bin/cinema_services.cfg | grep timez"
+        
+	 echo $recebe > /teste1
+         echo "Código de retorno: $?"
+
+    else 
+ 	echo "$host inacessivel"
+    fi
+   
+        
+done
+

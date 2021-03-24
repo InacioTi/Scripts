@@ -1,0 +1,23 @@
+###script logar e rodar comando ssh 
+
+#!/usr/bin/env python
+
+import paramiko,os,commands
+
+host = commands.getoutput("cat /lista8")
+print  host
+
+
+
+ssh = paramiko.SSHClient()
+
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+
+
+ssh.connect(host, username='root', password='L4t4m4dm1n')
+
+stdin, stdout, stderr = ssh.exec_command('cat /aam-lms/bin/cinema_services.cfg | grep timez')
+
+print stdout.readlines()
+
+ssh.close()

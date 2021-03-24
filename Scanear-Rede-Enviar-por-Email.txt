@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo -e \n scaneando a rede, aguarde . . .
+fping -r1 -g 10.240.255.0/29 >> SAIDA_FPING
+sed -i 's/is //' SAIDA_FPING
+sleep 2.5
+while IFS=":" read -r IP STATUS;do
+
+
+if [ $STATUS="unreachable" ];then
+EMAIL=$(awk -F ':' '{print $2}' EMAIL_HOST.TXT)
+echo $EMAIL
+printf Data: %x%nHora: %X T\n$MSG\n >> email.txt
+ssmtp  $EMAIL < email.txt
+
+elif [ $STATUS="alive" ];then
+printf Data: %x%nHora: %X T\n$MSG\n >> ipativos.txt
+
+fi
+
+done < SAIDA_FPING
