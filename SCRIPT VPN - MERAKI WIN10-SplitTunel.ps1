@@ -1,0 +1,2 @@
+Add-VpnConnection -Name "Teste2" -ServerAddress  quantanocoffice-kgpktznthj.dynamic-m.com -TunnelType L2tp -L2tpPsk "!m3R4k14upP04t$" -AuthenticationMethod pap,MSChapv2 -RememberCredential -Force -PassThru 
+Set-VpnConnection -Name "Teste2" -SplitTunneling $true
