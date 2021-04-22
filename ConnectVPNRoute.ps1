@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+
+#Code: JoseInacio -
+#Github: https://github.com/InacioTi
+
 #conecat a vpn com routa especifica
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
